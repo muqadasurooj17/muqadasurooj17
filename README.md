@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 ### **ABOUT ME**
 I am Muqadas Urooj, 2nd year student of Software Engineering from MUET SZAB campus. I am having proficiency in web languages and completed numerous projects. I am always motivated and searching for the opportunities which enhance my technical skills.
 
-### **PROFILE**
+### **PROFILE:blush:**
 
 ![My Image](https://github.com/muqadasurooj17/muqadasurooj17/blob/master/dp.jpg)
 ### **MY SKILLS**
