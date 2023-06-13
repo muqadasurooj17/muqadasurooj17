@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Muqadas , a Front end web developer 👨‍💻 and Software Engineeer  🚀</div>  
+### <div align="center">I'm Muqadas , an Aspiring Full stcak Developer 👨‍💻 and Software Engineeer  🚀</div>  
   
 
 - 🔭 I’m GOOGLE DEVELOPER STUDENT CLUB LEAD😇😇  
