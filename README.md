@@ -9,18 +9,13 @@
 - 🔭 I’m GOOGLE DEVELOPER STUDENT CLUB LEAD😇😇  
   
 
-- 🌱 I’m currently learning React JS and Vue JS  
+- 🌱 I’m currently learning React and Node JS.
   
 
-- ❓ Ask me about anything related to Web Designing ,Web Development and related technologies  
+- ❓ Ask me about anything related to Web Designing,Web Development, and MERN technologies  
   
 
-- ⚡ Fun fact: I am Quick Learner  
-  
-
-<img src="https://s3.amazonaws.com/ckl-website-static/wp-content/uploads/2017/03/Banner_codegirls3.png" align="left" height="500" width="" />  
-  
-
+- ⚡ Fun fact: I am a Quick Learner  
 <br/>  
 
 
@@ -36,11 +31,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="75" />  
 </div>
 
 </td><td valign="top" width="50%">
@@ -49,16 +41,10 @@
 
 ### Backend   
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" />  
 </div>
 
@@ -72,27 +58,19 @@
 
 <br/>  
 
-  
-
 <br/>  
-
-
-
-### My Achivements  
-GOOGLE DEVELOPER STUDENT CLUB LEAD😍  
+## My Achivements  
+SILVER MEDALIST🏅🥇
   
 
-MEMBER OF WOMEN TECHMAKERS🧘‍♀️  
+GOOGLE DEVELOPERS STUDENT CLUB LEAD🧘‍♀️  
   
 
-WEB INTERNEE AT SYANISBIZ.COM💻  
+WEB DEVELOPER AT PERKCHOPS.COM💻  
   
 
-CO LEAD AT MICROSOFT LEARN STUDENT AMBASSADOR🙌  
-  
-
-COMMUNITY WORKER AT MOVE👩‍💼  
-  
+FULL STACK INTERN AT ESCIPICK.COM🙌  
+    
 
 <br/>  
 
@@ -129,15 +107,5 @@ COMMUNITY WORKER AT MOVE👩‍💼
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
