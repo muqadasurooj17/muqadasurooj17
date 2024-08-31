@@ -6,13 +6,13 @@
 ### <div align="center">I'm Muqadas , an Aspiring Full stcak Developer 👨‍💻 and Software Engineeer  🚀</div>  
   
 
-- 🔭 I’m GOOGLE DEVELOPER STUDENT CLUB LEAD😇😇  
+- 🔭 I’m  Silver Medalist😇😇  
   
 
-- 🌱 I’m currently learning React and Node JS.
+- 🌱 Passionate for  React JS,Next JS and Node JS.
   
 
-- ❓ Ask me about anything related to Web Designing,Web Development, and MERN technologies  
+- ❓ Ask me about anything related to Full Stack Development  
   
 
 - ⚡ Fun fact: I am a Quick Learner  
@@ -65,6 +65,9 @@ SILVER MEDALIST🏅🥇
 
 GOOGLE DEVELOPERS STUDENT CLUB LEAD🧘‍♀️  
   
+
+SOFTWARE ENGINEER AT LIME SOFTWARE LOGICS💻  
+
 
 WEB DEVELOPER AT PERKCHOPS.COM💻  
   
