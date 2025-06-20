@@ -3,7 +3,7 @@
 </div>  
 
 <h2 align="center">Hey 👋 I'm Muqadas Urooj</h2>  
-<h4 align="center">Aspiring Full Stack Developer | Software Engineer | GDSC Lead</h4>
+<h4 align="center">Full Stack Developer | Software Engineer </h4>
 
 ---
 
@@ -105,4 +105,3 @@
 <div align="center">
   🛠️ *Maintained with ❤️ by Muqadas | Inspired by GitHub Profilinator*
 </div>
-```
