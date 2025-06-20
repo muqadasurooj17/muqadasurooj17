@@ -1,115 +1,108 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm Muqadas , an Aspiring Full stcak Developer 👨‍💻 and Software Engineeer  🚀</div>  
-  
+<h2 align="center">Hey 👋 I'm Muqadas Urooj</h2>  
+<h4 align="center">Aspiring Full Stack Developer | Software Engineer | GDSC Lead</h4>
 
-- 🔭 I’m  Silver Medalist😇😇  
-  
+---
 
-- 🌱 Passionate for  React JS,Next JS and Node JS.
-  
+### 🧠 About Me
 
-- ❓ Ask me about anything related to Full Stack Development  
-  
+- 🥈 **Silver Medalist** — CGPA 3.91/4.0 (Top of the Class)
+- 💼 Full Stack Developer | React | Next.js | Node.js | Vue.js | Laravel | Java
+- 📍 Based in Karachi, Pakistan — Open to remote & hybrid opportunities
+- 🌐 Building dynamic, scalable apps with clean code & strong UI/UX
+- 💬 Ask me about: Frontend Magic ✨ | REST APIs | Full Stack Project Architecture
+- ⚡ Fun fact: I thrive in tech communities and lead with purpose
 
-- ⚡ Fun fact: I am a Quick Learner  
-<br/>  
+---
 
+## 💼 Experience
 
-## My Skill Set  
+| Role | Company | Duration |
+|------|---------|----------|
+| 🛠 **Software Design Engineer** | [Teresol (Pvt Ltd)](https://www.teresol.com/) | Feb 2025 – Present |
+| 🧑‍💻 **Software Engineer** | [Lime Software Logics](https://www.limesoftlogics.com/) | Oct 2023 – Jan 2025 |
+| 🌎 **Web Developer (Remote)** | [Perkchops, USA](https://perkchops.com/) | Jul 2022 – Nov 2022 |
+| 🌐 **Full Stack Intern** | Escipick.com | 2022 |
+
+---
+
+## 🚀 Tech Stack
+
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="75" />  
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="55" />  
+<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="55" />
+<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="55" />
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="55" />  
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="55" />  
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="55" />  
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="55" />  
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="55" />  
 </div>
 
 </td><td valign="top" width="50%">
 
-
-
-### Backend   
+### Backend & DB  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" />  
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="55" />  
+<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="55" />  
+<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="55" />  
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="55" />  
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="55" />  
+<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="55" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+---
 
+## ⭐ Featured Projects
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=muqadasurooj17&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+- 🔗 [Dashboard for Property Technologies](https://dashboard.propertytechnologies.ai/signin) — Next.js, Redux, Firebase  
+- 🔗 [App Launch Landing](https://applaunchweb.netlify.app/) — ReactJS, Tailwind CSS  
+- 🔗 [Academic Website](https://acadmicwebsite.netlify.app/) — Responsive UI, HTML/CSS  
+- 🔗 [Personal Portfolio](https://muqadasurooj.netlify.app/)  
 
-<br/>  
+---
 
-<br/>  
-## My Achivements  
-SILVER MEDALIST🏅🥇
-  
+## 📜 Certifications
 
-GOOGLE DEVELOPERS STUDENT CLUB LEAD🧘‍♀️  
+- 🏆 **Google** — Cloud Seekho Challenge, DevFest 2023, Solution Challenge  
+- 🏆 **Microsoft** — Innovative Educator Award  
+- 🏆 **Udemy** — Java for Beginners, Intro to Databases & SQL  
+- 👩‍💻 **GDSC Lead** — Organized 15+ events, hackathons & community sessions
 
-SOFTWARE ENGINEER AT Teresol (Pvt Ltd)💻    
+---
 
-SOFTWARE ENGINEER AT LIME SOFTWARE LOGICS💻  
+## 📫 Contact
 
+<div align="left">
 
-WEB DEVELOPER AT PERKCHOPS.COM💻  
-  
+- 📧 Email: **muqadasurooj123@gmail.com**  
+- 📍 Location: **Karachi, Pakistan**  
+- 🌐 Portfolio: [muqadasurooj.netlify.app](https://muqadasurooj.netlify.app/)  
+- 📞 Phone: **+92 318 3322311**  
+- 🧾 LinkedIn: [Muqadas Urooj](https://www.linkedin.com/in/muqadas-urooj-37769b175)  
+- 🐙 GitHub: [muqadasurooj17](https://github.com/muqadasurooj17)  
 
-FULL STACK INTERN AT ESCIPICK.COM🙌  
-    
+</div>
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muqadas-urooj-37769b175/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/muqadasurooj17" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/https://www.behance.net/muqadasurooj/projects" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/https://muqadasurooj123.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/muqadas.urooj.92" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/https://twitter.com/urooj_muqadas?s=09" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=muqadasurooj17&show_icons=true&count_private=true&hide_border=true" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=muqadasurooj17&&style=flat-square" />
+</div>
+
+---
+
+<div align="center">
+  🛠️ *Maintained with ❤️ by Muqadas | Inspired by GitHub Profilinator*
+</div>
+```
