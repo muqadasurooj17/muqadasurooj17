@@ -61,9 +61,7 @@
 
 ---
 
-## ⭐ Featured Projects
-
-- 🔗 [Dashboard for Property Technologies](https://dashboard.propertytechnologies.ai/signin) — Next.js, Redux, Firebase  
+## ⭐ Featured Projec  
 - 🔗 [App Launch Landing](https://applaunchweb.netlify.app/) — ReactJS, Tailwind CSS  
 - 🔗 [Academic Website](https://acadmicwebsite.netlify.app/) — Responsive UI, HTML/CSS  
 - 🔗 [Personal Portfolio](https://muqadasurooj.netlify.app/)  
