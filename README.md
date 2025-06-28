@@ -25,7 +25,6 @@
 | 🛠 **Software Design Engineer** | [Teresol (Pvt Ltd)](https://www.teresol.com/) | Feb 2025 – Present |
 | 🧑‍💻 **Software Engineer** | [Lime Software Logics](https://www.limesoftlogics.com/) | Oct 2023 – Jan 2025 |
 | 🌎 **Web Developer (Remote)** | [Perkchops, USA](https://perkchops.com/) | Jul 2022 – Nov 2022 |
-| 🌐 **Full Stack Intern** | Escipick.com | 2022 |
 
 ---
 
@@ -61,7 +60,7 @@
 
 ---
 
-## ⭐ Featured Projec  
+## ⭐ Featured Project
 - 🔗 [App Launch Landing](https://applaunchweb.netlify.app/) — ReactJS, Tailwind CSS  
 - 🔗 [Academic Website](https://acadmicwebsite.netlify.app/) — Responsive UI, HTML/CSS  
 - 🔗 [Personal Portfolio](https://muqadasurooj.netlify.app/)  
