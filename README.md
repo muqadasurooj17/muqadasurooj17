@@ -46,7 +46,7 @@
     </td>
 
   <td valign="top" width="50%">
-      <h4 align="center">Frontend</h4>
+      <h4 align="center">Backend</h4>
       <p align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="50" height="50"/>
         <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="50" height="50"/>
