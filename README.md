@@ -95,9 +95,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muqadasurooj17&show_icons=true&count_private=true&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=muqadasurooj17&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=muqadasurooj17&&style=flat-square" />
+
+  
 </div>
 
 ---
