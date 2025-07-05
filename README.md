@@ -29,34 +29,53 @@
 ---
 
 ## 🚀 Tech Stack
+<style>
+  .skill-icon {
+    width: 60px;
+    height: 60px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+  }
 
-<table><tr><td valign="top" width="50%">
+  .skill-icon img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+</style>
 
-### Frontend  
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="55" />
-<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="55" />
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="55" />  
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Frontend</h3>
+      <div align="center">
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" /></div>
+      </div>
+    </td>
 
-</td><td valign="top" width="50%">
+    <td valign="top" width="50%">
+      <h3>Backend & DB</h3>
+      <div align="center">
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" /></div>
+        <div class="skill-icon"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" /></div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### Backend & DB  
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="55" />  
-<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="55" />  
-</div>
-
-</td></tr></table>
 
 ---
 
