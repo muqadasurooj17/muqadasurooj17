@@ -105,6 +105,10 @@
 
 ---
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muqadasurooj17&theme=github-compact" />
+
+
 <div align="center">
-  🛠️ *Maintained with ❤️ by Muqadas | Inspired by GitHub Profilinator*
+  🛠️ *Maintained with ❤️ by Muqadas Urooj*
 </div>
