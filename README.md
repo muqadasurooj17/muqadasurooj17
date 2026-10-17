@@ -22,7 +22,7 @@
 
 | Role | Company | Duration |
 |------|---------|----------|
-| 🛠 **Software Design Engineer** | [Teresol (Pvt Ltd)](https://www.teresol.com/) | Feb 2025 – Present |
+| 🛠 **Software Design Engineer** | [Teresol (Pvt Ltd)](https://www.teresol.com/) | Feb 2025 – Sept 2026 |
 | 🧑‍💻 **Software Engineer** | [Lime Software Logics](https://www.limesoftlogics.com/) | Oct 2023 – Jan 2025 |
 | 🌎 **Web Developer (Remote)** | [Perkchops, USA](https://perkchops.com/) | Jul 2022 – Nov 2022 |
 
@@ -84,9 +84,10 @@
 <div align="left">
 
 - 📧 Email: **muqadasurooj123@gmail.com**  
-- 📍 Location: **Karachi, Pakistan**  
+- 📍 Location: **Bologna, Itlay**  
 - 🌐 Portfolio: [muqadasurooj.netlify.app](https://muqadasurooj.netlify.app/)  
-- 📞 Phone: **+92 318 3322311**  
+- 📞 Phone: **+92 318 3322311**
+- 📞 Phone: **+39 ** 
 - 🧾 LinkedIn: [Muqadas Urooj](https://www.linkedin.com/in/muqadas-urooj-37769b175)  
 - 🐙 GitHub: [muqadasurooj17](https://github.com/muqadasurooj17)  
 
