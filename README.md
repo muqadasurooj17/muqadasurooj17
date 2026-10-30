@@ -11,10 +11,9 @@
 
 - 🥈 **Silver Medalist** — CGPA 3.91/4.0 
 - 💼 Full Stack Developer | React | Next.js | Node.js | Vue.js | Python
-- 📍 Based in Itlay, Pakistan — Open to remote & hybrid opportunities
+- 📍 Based in Itlay, Bologna — Open to remote & hybrid opportunities
 - 🌐 Building dynamic, scalable apps with clean code & strong UI/UX
-- 💬 Ask me about: Frontend Magic ✨ | REST APIs | Full Stack Project Architecture
-- ⚡ Fun fact: I thrive in tech communities and lead with purpose
+- 💬 Ask me about: Frontend Magic ✨ | REST APIs | Full Stack Project Architecture |Python Development
 
 ---
 
